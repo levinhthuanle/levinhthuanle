@@ -1,8 +1,14 @@
-<div align="center"><img src="https://api.iconify.design/logos/facebook.svg" alt="logos:facebook" height="40" />
+<div align="center"><a href="https://www.facebook.com/le.thuan72/">
+    <img src="https://api.iconify.design/logos/facebook.svg" alt="logos:facebook" height="40" />
+    </a>
     <img width="45" />
+    <a href="https://www.linkedin.com/in/thuanle275/">
     <img src="https://api.iconify.design/devicon/linkedin.svg" alt="devicon:linkedin" height="40" />
+    </a>
     <img width="45" />
+    <a href="thuanle.qt@gmail.com">
     <img src="https://api.iconify.design/skill-icons/gmail-light.svg" alt="skill-icons:gmail-light" height="40" />
+    </a>
 </div>
 <div align="left">
 </div>
