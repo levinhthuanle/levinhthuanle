@@ -1,16 +1,17 @@
-### Hi there 👋
-
-<!--
-**levinhthuanle/levinhthuanle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center"><img src="https://api.iconify.design/logos/facebook.svg" alt="logos:facebook" height="40" />
+    <img width="45" />
+    <img src="https://api.iconify.design/devicon/linkedin.svg" alt="devicon:linkedin" height="40" />
+    <img width="45" />
+    <img src="https://api.iconify.design/skill-icons/gmail-light.svg" alt="skill-icons:gmail-light" height="40" />
+</div>
+<div align="left">
+</div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=levinhthuanle&theme=tokyonight&hide_border=true&show_icons=true&hide_title=false&disable_animations=false&hide_rank=false&rank_icon=default&hide=&show=&locale=EN" />
+</div>
+<div align="center">
+    <img src="https://streak-stats.demolab.com?user=levinhthuanle&theme=tokyonight&hide_border=true&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&mode=daily&locale=EN" />
+</div>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
+</div>
